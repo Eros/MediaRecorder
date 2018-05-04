@@ -1,0 +1,3 @@
+F:/C++/Projects/Media/cmake-build-debug/CMakeFiles/Media.dir
+F:/C++/Projects/Media/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/C++/Projects/Media/cmake-build-debug/CMakeFiles/rebuild_cache.dir
